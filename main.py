@@ -1,6 +1,7 @@
+import threading
+
 from string   import *
 from random   import *
-import threading
 from requests import *
 from colorama import *
 
